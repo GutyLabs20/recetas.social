@@ -21,14 +21,5 @@ class UsuariosSeeder extends Seeder
 
         $user->perfil()->create();
 
-
-        $user2 = User::create([
-            'name' => 'El Gula',
-            'email' => 'gula@recetas.social',
-            'password' => Hash::make('password'),
-        ]);
-
-        $user2->perfil()->create();
-
     }
 }

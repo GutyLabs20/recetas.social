@@ -11,7 +11,16 @@ Un pequeño proyecto funcional para aprender mas sobre: <p align="center"><img s
 
 La aplicación se trata de una pequeña red social sobre recetas de comida, el desarrollo y el código es muy util ya que se aplica métodos de [laravel](https://laravel.com/docs) y [vue.js](https://vuejs.org/)
 
+## Correr el proyecto
 
+- Crea tu base de datos con el nombre que desees.
+- Luego el siguiente comando:
+    php artisan migrate
+
+- Seguido de este otro:
+    php artisan db:seed
+
+- obvio, no olvides realizar las configuracion en el archivo [env]
 
 
 ## Mi repositorios
