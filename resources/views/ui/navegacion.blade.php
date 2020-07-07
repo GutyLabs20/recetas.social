@@ -1,0 +1,3 @@
+<a href="{{ route('recetas.create') }}" class="btn btn-outline-primary text-uppercase font-weight-bold mr-2">Crear receta</a>
+<a href="{{ route('perfiles.edit', ['perfil' => Auth::user()->id ]) }}" class="btn btn-outline-success text-uppercase font-weight-bold mr-2">Editar Perfil</a>
+<a href="{{ route('perfiles.show', ['perfil' => Auth::user()->id ]) }}" class="btn btn-outline-info text-uppercase font-weight-bold mr-2">Ver Perfil</a>
