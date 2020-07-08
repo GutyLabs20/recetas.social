@@ -6,6 +6,7 @@ Un pequeño proyecto funcional para aprender mas sobre: <p align="center"><img s
 
 - [Sigue mi canal en YouTube](https://bit.ly/2ACNEKF).
 - [Apoyame con un cafecito 🍵](https://www.paypal.me/gutylabs20).
+- Para una mejor experiencia de internet, usa [Brave](https://brave.com/gut349). Este navegador es muy bueno, potente y rápido. 
 
 
 
