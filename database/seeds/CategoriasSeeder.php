@@ -13,7 +13,7 @@ class CategoriasSeeder extends Seeder
     public function run()
     {
         DB::table('categoria_recetas')->insert([
-            'categoria' => 'Comida Criolla',
+            'categoria' => 'Comida Carioca',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s')
         ]);
@@ -23,7 +23,7 @@ class CategoriasSeeder extends Seeder
             'updated_at' => date('Y-m-d H:i:s')
         ]);
         DB::table('categoria_recetas')->insert([
-            'categoria' => 'Comida Arequipeña',
+            'categoria' => 'Comida Japonesa',
             'created_at' => date('Y-m-d H:i:s'),
             'updated_at' => date('Y-m-d H:i:s')
         ]);
